@@ -2,7 +2,7 @@
 
 Here's my notes when working with the AWS S3.
 
-## **Sync the AWS S3 bucket to local directory**
+## **Sync the AWS S3 Bucket to Local Directory**
 
 Here's the command to sync the directory localy.
 
