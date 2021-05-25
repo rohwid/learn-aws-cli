@@ -29,3 +29,4 @@ read -n1 -r -p "Configure the AWS CLI 2 right now. press ENTER to continue!" ENT
 
 # Configure AWS
 aws configure
+

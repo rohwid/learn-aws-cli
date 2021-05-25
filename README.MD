@@ -13,3 +13,4 @@ To get the `aws_account_id`:
 To get the `region`:
 
     $ aws configure get region
+
