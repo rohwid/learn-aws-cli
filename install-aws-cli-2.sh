@@ -12,7 +12,7 @@ unzip awscliv2.zip
 # Install the AWS CLI 2
 sudo ./aws/install
 
-read -n1 -r -p "Add the . press ENTER to continue!" ENTER
+read -n1 -r -p "Add the AWS CLI in to the \"~/.bashrc\" file. press ENTER to continue!" ENTER
 
 # Backup the .bashrc file
 cp ~/.bashrc ~/.bashrc.ori.aws

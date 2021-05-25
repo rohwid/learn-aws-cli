@@ -4,7 +4,7 @@ Don't forget to install and configure CLI using the file in `install-aws-cli-2.s
 
 ## Get Account Identity
 
-Before working with some service such as **AWS ECR** which is request the `aws_account_id` and the `region`, here's the command to get that parameters: 
+Before working with some service such as **AWS ECS** or **S3** which is request the `aws_account_id` and the `region`, here's the command to get that parameters: 
 
 To get the `aws_account_id`:
 
