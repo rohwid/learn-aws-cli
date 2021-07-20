@@ -20,7 +20,7 @@ cp ~/.bashrc ~/.bashrc.ori.aws
 # Add AWS CLI 2 path to the .bashrc file
 echo " " >> ~/.bashrc
 echo "# AWS CLI 2" >> ~/.bashrc
-echo "export PATH=\"$PATH:/usr/local/bin/aws\"" >> ~/.bashrc
+echo 'export PATH="${PATH}:/usr/local/bin/aws"' >> ~/.bashrc
 
 # Load the .bashrc
 sudo ldconfig
