@@ -25,6 +25,11 @@ echo 'export PATH="${PATH}:/usr/local/bin/aws"' >> ~/.bashrc
 # Load the .bashrc
 sudo ldconfig
 
+echo "Read \"new_user_credential.csv\" and found the info bellow!"
+echo "----------------------------------------------------------"
+echo "AWS Access Key ID [None]: Password"
+echo "AWS Secret Access Key [None]: Access"
+echo "----------------------------------------------------------"
 read -n1 -r -p "Configure the AWS CLI 2 right now. press ENTER to continue!" ENTER
 
 # Configure AWS
