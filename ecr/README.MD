@@ -1,4 +1,4 @@
-# **Working with Docker and ECR as Registry in AWS**
+# **Working with the Docker and ECR as Registry in AWS**
 
 Here's my notes when working with the AWS ECR.
 

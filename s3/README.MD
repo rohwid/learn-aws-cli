@@ -1,4 +1,4 @@
-# **Working with AWS S3**
+# **AWS S3**
 
 Here's my notes when working with the AWS S3.
 
